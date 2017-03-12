@@ -1,5 +1,8 @@
 _repo: Yankee-Gypsies_878
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whittier, John Greenleaf
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/455
     wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/878#Yankee-Gypsies
 gutenberg_issued: '1997-04-01'
 gutenberg_type: Text
 identifiers:
